@@ -1,0 +1,20 @@
+body {
+	background-color: #f5f7f9;
+}
+
+h4 {
+
+	color: grey
+	font-weight: bold;
+}
+
+.navbar-brand { 
+
+	font-weight: bold;
+	font: helvetica;
+	font-size: 24px;
+	font-variant-caps: small-caps;
+}
+
+.card-block-img{
+}
